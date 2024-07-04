@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Instagram",
+    "img": "./src/assets/instagram.png",
+    "imgMobile": "./src/assets/instagram-mobile.png",
+    "href": "https://www.instagram.com/emerson.gg21/"
+  },
+  {
+    "title": "TikTok",
+    "img": "./src/assets/tiktok.png",
+    "imgMobile": "./src/assets/tiktok-mobile.png",
+    "href": "https://www.tiktok.com/@ermissu20"
+  },
+  {
+    "title": "Spotify",
+    "img": "./src/assets/spotify.png",
+    "imgMobile": "./src/assets/spotify-mobile.png",
+    "href": "https://open.spotify.com/user/31zz2afqps3owldzxcx5j6277fxm?si=865d1904d35d45a3"
+  },
+  {
+    "title": "Github",
+    "img": "./src/assets/github.png",
+    "imgMobile": "./src/assets/github-mobile.png",
+    "href": "https://github.com/emersondev21"
+  }
+]
