@@ -1,26 +1,26 @@
 [
   {
     "title": "Instagram",
-    "img": "./src/assets/instagram.png",
-    "imgMobile": "./src/assets/instagram-mobile.png",
+    "img": "https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png",
+    "imgMobile": "https://seeklogo.com/images/I/instagram-logo-E0067A1403-seeklogo.com.png",
     "href": "https://www.instagram.com/emerson.gg21/"
   },
   {
     "title": "TikTok",
-    "img": "./src/assets/tiktok.png",
-    "imgMobile": "./src/assets/tiktok-mobile.png",
+    "img": "https://seeklogo.com/images/T/tiktok-logo-1F4A5DCD45-seeklogo.com.png",
+    "imgMobile": "https://seeklogo.com/images/T/tiktok-share-icon-black-logo-29FFD062A0-seeklogo.com.png",
     "href": "https://www.tiktok.com/@ermissu20"
   },
   {
     "title": "Spotify",
-    "img": "./src/assets/spotify.png",
-    "imgMobile": "./src/assets/spotify-mobile.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spotify_icon.png/120px-Spotify_icon.png",
+    "imgMobile": "https://seeklogo.com/images/S/spotify-logo-7839B39C1B-seeklogo.com.png",
     "href": "https://open.spotify.com/user/31zz2afqps3owldzxcx5j6277fxm?si=865d1904d35d45a3"
   },
   {
     "title": "Github",
-    "img": "./src/assets/github.png",
-    "imgMobile": "./src/assets/github-mobile.png",
+    "img": "https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png",
+    "imgMobile": "https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png",
     "href": "https://github.com/emersondev21"
   }
 ]

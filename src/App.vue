@@ -37,9 +37,6 @@ export default {
       <Item v-for="references, index in datas" :key="index" :item="references" />
     </div>
 
-    <footer>
-      <h3>Emerson Batista - 2024</h3>
-    </footer>
   </div>
 </template>
 
@@ -113,7 +110,9 @@ footer {
 @media (width <= 800px) {
 
   h1 {
+    width: 90%;
     color: #E0E3F0;
+    font-size: 2.5em;
   }
 
   .card {

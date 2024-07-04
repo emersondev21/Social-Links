@@ -71,6 +71,7 @@ span {
   img {
     width: 50px;
     margin: 0 20px;
+    border-radius: 50px;
   }
 
   .normal-Icon {
